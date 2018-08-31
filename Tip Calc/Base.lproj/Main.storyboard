@@ -88,6 +88,7 @@
                     <navigationItem key="navigationItem" title="Tip Calc" id="2GW-rm-Bqj"/>
                     <connections>
                         <outlet property="billField" destination="7qB-P2-1WQ" id="YnU-hm-xbL"/>
+                        <outlet property="tipControl" destination="vw5-ah-gpx" id="BMC-HN-7xM"/>
                         <outlet property="tipLabel" destination="UZ3-uz-Myw" id="d4l-Sp-n6C"/>
                         <outlet property="totalLabel" destination="suh-6u-tNf" id="hcl-Ic-59X"/>
                     </connections>
